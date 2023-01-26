@@ -3,9 +3,10 @@
 ## Table of Contents
 
 * [Overview](#Overview)
-* [Method](#Process)
+* [Method](#Data-Cleaning)
 * [Analysis](#Exploritory-Data-Analysis)
 * [Models](#Model-Implementation-and-Performance)
+* [Final Recommendation](#Final-Recommendation)
 
 ## Notebooks
 * Cleaning.ipynb :Clenaing of dataset
