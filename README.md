@@ -88,4 +88,10 @@ After fitting the model and applying UserId to get_n_recommendation function the
 
 The KNNBasline recommendation model developed for the MovieLens dataset was able to effectively predict user ratings for movies based on their past behavior and preferences. The model employed the use of collaborative filtering techniques, which leveraged the similarities between users and items to make personalized recommendations. The results of the model were evaluated using various metrics such as RMSE and MAE, and it was found to perform well in comparison to other popular recommendation algorithms. Overall, the recommendation model has the potential to improve the movie-watching experience for users by providing them with personalized and relevant movie recommendations.
 
+### Libraries Used
 
+* Numpy
+* Surprise 
+* Pandas
+* Matplotlib
+* Pickle
